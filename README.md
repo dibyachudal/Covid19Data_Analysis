@@ -23,7 +23,7 @@ Data Visualization:
 
 Treemap: Utilized to identify countries with the highest total cases, total deaths, total recoveries, and active cases.
 Line Plot: Used to analyze trends over time for confirmed cases, deaths, recoveries, and active cases.
-Pie Chart: Illustrated the proportion of key metrics in the worst-affected countries.
+Donut Chart: Illustrated the proportion of key metrics in the worst-affected countries.
 Bar Chart: Employed to compare deaths to confirmed cases ratio, deaths to recovered cases ratio, and serious to death ratio among different countries.
 Findings
 
